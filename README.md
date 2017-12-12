@@ -170,3 +170,27 @@ These are notes for all the sessions I attended at AEA Denver. If you see typos 
 ---
 
 ## 12 DECEMBER
+
+### Prototyping: The Scientific Method of Business
+#### Daniel Burka
+
+- "What keeps you up at night?" - A good question to ask other people in your business org.
+- Designers are not working on solving internal issues (e.g., procurement, hiring). Where is design really effective?
+- Design done right can be the scientific method for business.
+- "Inklings": Rough-edged ideas that are not well formed, things that we argue about in meetings.
+- How do we test hypotheses? We argue about them, and guessing about what customers want.
+- Test several ideas and measure them, we'll at least get directional feedback on what ideas hold merit.
+- Basement lab: Help your team see their own inklings.
+- If a picture is worth a thousand words, a prototype is worth a thousand meetings.
+- All you need is you to get started in the basement lab.
+- Start prototyping, and when you have a prototype, bring it back to the meeting. It's something you can _show_ people.
+- Prototypes are throwaway interfaces. They're a starting point, or something to invalidate what you once _thought_ was a good idea.
+- High school science lab: Prototyping level 2, instead now you test with real customers.
+- Industrial grade science lab: Prototyping level 3, a master class is creating a prototype with intention as a group.
+- Day 1: Gather a sprint team, create time pressure, find the right challenge.
+- Day 2: Find more than one solution. No group brainstorms: Group brainstorms are resolved by the loudest voice in the group.
+- Day 3: Make good, quick decisions. No design-by-committee. Entertain risky ideas.
+- Day 4: Prototype.
+- Day 5: Research.
+- Gather the right team, create time pressure, and conduct quick, credible research.
+- Step by step instructions: http://gv.com/sprint
