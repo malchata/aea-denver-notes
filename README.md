@@ -236,4 +236,42 @@ These are notes for all the sessions I attended at AEA Denver. If you see typos 
 - We will always be needed to make something more bespoke or human. It's the details that humans add that give an impression of something being, well, human.
 
 ### The Joy of Optimizing Images
-#### Una Kravets
+#### [Una Kravets](https://twitter.com/Una)
+
+- Images on the web affect all of us.
+- Performance is a user experience problem. We need to take responsibility on every level.
+- The average single JPG is 2.5x than the average JS file.
+- The average iPhone 6 photograph is 2.5 MB. Waaaay too big.
+- We take images without thinking about the cost: Irresponsible images! It becomes a problem when we cram these down the pipe to users.
+- 19 seconds is the average load time for sites over 3G.
+- Mobile site loading within 5 seconds had sessions lasting 70% longer.
+- 53% of visits to mobile sites are abandoned after 3 seconds.
+- People don't have patience for slow sites anymore.
+- Most emerging markets/developing nations have yet to join the web.
+- Most developing nations have poor infrastructure and slower devices.
+- Access to information should be a basic human right. Performance addresses this.
+- You can't be a web performance expert without being an image expert.
+- Different formats are suitable for different types of content.
+- Guetzli compression for JPEGs, which is a psychovisual optimization.
+- General guidelines: 80% is a good maximum.
+- WebP is a promising "new" format (it's been around for a while, but is gaining prominence).
+- You can convert to WebPs using ImageMagick.
+- Use the `<picture>` element to fall back to WebP.
+- Use the `<video>` element to fall back to WebM.
+- FLIF for responsive imagery sends multiple encodings in one file.
+- Automate image optimization.
+- ImageOptim is a great GUI program.
+- SVGOMG, a web GUI for SVGO.
+- Manually blur out unimportant parts of the image to save data.
+- Use blurry placeholders for lazily loaded images ("blur up").
+- Greyscaling reduces image size.
+- CSS blend modes can liven up images and save data.
+- Reducing contrast to reduce color space, which reduces file size: Start with image, remove image contrast, add contrast back in as a CSS filter.
+- Manually tune GIFs in Photoshop to squeeze more bytes.
+- Alternatives to GIFs: Videos.
+- Leverage cache to keep media in caches longer.
+- Inspect the `Accept` header to send WebPs on the server side.
+- Compress SVGs using gzip/Brotli.
+- Challenge the idea that 2x for Retina is always the "right" way to go.
+- Consider your image format, and use `<source>` `media` attributes to send properly sized images.
+- Find balance for users. It's all about user experience.
