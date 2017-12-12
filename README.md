@@ -275,3 +275,35 @@ These are notes for all the sessions I attended at AEA Denver. If you see typos 
 - Challenge the idea that 2x for Retina is always the "right" way to go.
 - Consider your image format, and use `<source>` `media` attributes to send properly sized images.
 - Find balance for users. It's all about user experience.
+
+### The Case for Progressive Web Apps
+#### [Jason Grigsby](https://twitter.com/grigs)
+
+- The goal of progressive web apps (PWAs) is to provide the fastest possible experience, balanced with offline capabilities and native app-like features.
+- Any site can be a PWA if they switch to HTTPS, add a manifest, and a service worker.
+- PWA banners seem to convert 5-6x more than native app install banners.
+- Installing native apps is onerous.
+- A PWA is installed once the site is visited. Because the PWA is _just your site_. Adding to home screen and other features are the cherry on top.
+- Progressive web app stores will eventually become a thing.
+- SEO benefits of PWAs. Bing will highlight PWAs in Bing search results. There's a good chance PWAs will receive similar treatment in Google searches.
+- Not every customer will have your app installed. PWA !== Native app.
+- Mobile web audiences are 3x the size and growing 2x as fast as app audiences.
+- PWAs === HTTPS by default.
+- HTTPS means access to things like HTTP/2, Service Workers, Brotli.
+- PWAs utilize application cache for performance.
+- Your customers might benefit from an offline experience.
+- Push notifications (maaaaybe).
+- Manifests are simple JSON documents.
+- PWAs are outperforming native apps.
+- pwastats.com keeps track of case studies for PWAs.
+- Platforms that don't support PWAs don't break the experience, even if things like service workers aren't supported.
+- PWAs force developers to operate in a performance-first mindset.
+- Display modes help us control what parts of the browser chrome we see.
+- The `display-mode` media query can help us determine what display mode a PWA is in (e.g., `standalone`, `fullscreen`.)
+- App shells mean first paint happens quickly.
+- Cache recently viewed content for offline use.
+- Push notification etiquette: Don't. Immediately. Prompt. For. Push. Notifications. People are annoyed by this.
+- Build a PWA and see if it makes sense for you!
+
+### 10 Things You Can and Should Do With SVG
+#### [Chris Coyier](https://twitter.com/chriscoyier)
