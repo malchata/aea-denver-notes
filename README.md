@@ -216,3 +216,24 @@ These are notes for all the sessions I attended at AEA Denver. If you see typos 
 - Our brains are activated when we recognize the narrative arc happening before us.
 - Once you have a story, you can start developing it and testing it.
 - Visualize the narrative arc by prototyping. Sketch it out. Illustrate the arc and all its plot points, and that will help you realize if the story is worth telling.
+
+### The Last Ten Percent: When and Where to Add Polish That Matters
+#### [Cassie McDaniel](https://twitter.com/cassiemc)
+
+- 1. Why would we polish product?
+- 2. How do we add that polish?
+- 3. Does it matter if we add the polish?
+- "The details are not the details. They make the design."
+- We're in search of work that reflects the beauty we want to see in the world.
+- Polish not only takes time, but a willingness to iterate and change what you did before. It means you've got to _stick with something_.
+- If you're just copying something, you're not learning anything new. Start with the original idea and iterate on that to get something original.
+- It's hard to get to the simple and obvious, but it's worth the journey.
+- Critique is one of the most crucial tools as a designer.
+- Surround yourself with people who will challenge your best work.
+- We can collaborate with specialists to create really valuable work.
+- Don't let perfection be the enemy of done.
+- Iterate -> Balance -> Simplify -> Apply -> Work in a team.
+- We will always be needed to make something more bespoke or human. It's the details that humans add that give an impression of something being, well, human.
+
+### The Joy of Optimizing Images
+#### Una Kravets
