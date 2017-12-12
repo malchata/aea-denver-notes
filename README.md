@@ -23,7 +23,7 @@ These are notes for all the sessions I attended at AEA Denver. If you see typos 
 - Stakeholder interviews reveal knowledge and build consensus.
 
 ### Digital Marketing Strategies for the Busy “Web Master”
-#### Sarah Parmenter
+#### [Sarah Parmenter](https://twitter.com/sazzy)
 
 - We are still in the first 10,000 days of the web.
 - We are still in the first 3,000 days of social media.
@@ -46,7 +46,7 @@ These are notes for all the sessions I attended at AEA Denver. If you see typos 
 - Some networks don't make sense for every business.
 
 ### Obvious Always Wins
-#### Luke Wroblewski
+#### [Luke Wroblewski](https://twitter.com/lukew)
 
 - Some design changes seem obvious in retrospect, but aren't so obvious at the time.
 - Apple's Maps app's small iterative changes took time, research.
@@ -172,7 +172,7 @@ These are notes for all the sessions I attended at AEA Denver. If you see typos 
 ## 12 DECEMBER
 
 ### Prototyping: The Scientific Method of Business
-#### Daniel Burka
+#### [Daniel Burka](https://twitter.com/dburka)
 
 - "What keeps you up at night?" - A good question to ask other people in your business org.
 - Designers are not working on solving internal issues (e.g., procurement, hiring). Where is design really effective?
@@ -194,3 +194,25 @@ These are notes for all the sessions I attended at AEA Denver. If you see typos 
 - Day 5: Research.
 - Gather the right team, create time pressure, and conduct quick, credible research.
 - Step by step instructions: http://gv.com/sprint
+
+### Story First: Crafting Products That Engage
+#### [Donna Lichaw](https://twitter.com/dlichaw)
+
+- If you want to engage your audience, you have to have an engaging story.
+- Story 101: Beginning, middle, end. This timeline has a narrative arc, dotted with plot points.
+- Exposition: The beginning, where the main players are introduced. Possibly foreshadowing of something on the horizon (the problem).
+- Rising action: Things get exciting, working toward a climax.
+- Crisis: The point of no return. Will the crisis be averted?
+- The Climax/Resolution: Crisis has been averted. The problem has been solved.
+- The Denouement: Calming down, and everything is normal. The main players have grown and developed. Or a chance to continue the story (a serial narrative).
+- The same narrative parsing we use to understand movies/series is the same as the narrative we used to understand the photograph.
+- Life is a story. You are the hero.
+- Who is your user and their big goal? What is their problem? What is your product name and market category? What is the competition? Why might they not want to adopt your product? Promise value/competitive advantage. What is the takeaway we want people to think or feel about our product? And again, what is their big goal? Has that goal been met?
+- Unboxing is exciting, and is part of the product narrative arc.
+- App sign-up flows are great examples of narrative arcs for users.
+- The climax just needs to be nearest towards the end of any user flow. (I purchased the socks.) The resolution? (I got the socks.)
+- The product narrative arc: Goal -> Problem Incentive CTA -> Flow -> Impediment (Sign up, payment, funnel drop-off, mental hurdles, boredom, lack of value, usability) -> Solve Problem/Experience Value -> Finish the flow/wrap it up. -> Goal met!
+- Arcs give us a sense of time, and the ability to project what might happen.
+- Our brains are activated when we recognize the narrative arc happening before us.
+- Once you have a story, you can start developing it and testing it.
+- Visualize the narrative arc by prototyping. Sketch it out. Illustrate the arc and all its plot points, and that will help you realize if the story is worth telling.
