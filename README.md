@@ -307,3 +307,28 @@ These are notes for all the sessions I attended at AEA Denver. If you see typos 
 
 ### 10 Things You Can and Should Do With SVG
 #### [Chris Coyier](https://twitter.com/chriscoyier)
+
+- SVG = Vectors. Other formats are pixels.
+- You can use it in any way you use other images.
+- SVG is a syntax. You can look at it. You can read it. You can change it in a text editor.
+- Kind of like `<html>`, only it's `<svg>`. It's familiar.
+- Animatable and scriptable.
+- Resolution-independent.
+- Quite accessible.
+- 1. Charts and graphs
+  - Nivo for React-generated SVG charts.
+- 2. Shape morphing
+  - GSAP + morphsvg
+  - CSS is good at morphing, too.
+- 3. Line drawing
+- 4. Animate your interface
+- 5. The best icon system ever.
+- 6. Do art.
+- 7. Diagrams
+- 8. Headline lockups
+- 9. SVG in the real world.
+- 10. Explain your product.
+
+---
+
+## 13 DECEMBER
