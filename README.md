@@ -33,7 +33,7 @@ These are notes for all the sessions I attended at AEA Denver. If you see typos 
 - We have to check out our personal bias in social networks.
 - Check up and coming social media apps, and market early to those audiences.
 - Video is the fastest way to build engagement.
-- Use HTTPs.
+- Use HTTPS.
 - Mobile ready and performance.
 - Starting January 10th: Google is going to penalize sites that have popovers.
 - How do we bring people back? Discount codes on the spot, perchance?
@@ -332,3 +332,110 @@ These are notes for all the sessions I attended at AEA Denver. If you see typos 
 ---
 
 ## 13 DECEMBER
+
+### Mission Possible: Stakeholder Alignment
+#### [Kristina Halvorson](https://twitter.com/halvorson)
+
+- Alignment is agreement or cooperation among a group with a common cause.
+- Alignment is also a position of agreement and alliance.
+- The absence of alignment is conflict.
+- Alignment happens before conflict. It can't always prevent it, but it can ameliorate it.
+- Don't stop aligning.
+- 4 primary reasons for conflict are a lack of alignment on values, goals, methods, and/or facts.
+- Belief is context-dependent. Has been shaped by our experiences.
+- Values are concepts that transcend context. They shape our behavior.
+- Be clear on goals.
+- Good goals must be specific, measurable, attainable, relevant and time-framed.
+- What is the method behind making a decision?
+- Roles in decision making: Owner, sponsor, manager, product team, SMEs, everyone else.
+- Facts: What are the relevant facts in product design? What assumptions are we comfortable moving forward with?
+- Stakeholder interviews lay the foundation for alignment along the way.
+- Purpose statement: Describe what the point of the projet is.
+- Maintain a mutual understanding of what's important and why: Joint objectives, joint commitments, joint resources, joint risks.
+
+### Performance as User Experience
+#### Aaron Gustafson
+
+- Good design is problem solving. Bad design is just window dressing.
+- Our job is to remove friction from people trying to accomplish tasks.
+- Poor performance is friction.
+- A 1s delay in page load can reduce conversions by about 7%.
+- Rendering delays can occur as JS and CSS are loaded.
+- Reduce your overhead.
+- Only include the assets you actually need.
+- Optimize everything.
+- Think about when we load assets.
+- Only load assets that add value.
+- Native features are effectively free.
+- Use system font stacks where reasonable.
+- If you need a custom font: subset, subset, subset.
+- Only include the assets you actually need.
+- Great tools can possibly be overkill. Use the right tool for the job.
+- CDNs are great, but not bulletproof.
+- `dns-prefetch`, `preconnect` for masking connnetion latency.
+- `preload` for important assets.
+- Breakup for managing media queries.
+- Precompress assets for maximum speed.
+- Think about _when_ we load assets.
+- Consider _how_ we load assets.
+- Not every article needs a picture.
+- If you can avoid using an image, do it.
+- If you need an image, choose the best format.
+
+### Evaluating Technology
+#### [Jeremy Keith](https://twitter.com/adactio)
+
+- With technology, we can imagine what we want to exist in the world and take steps to make that happen.
+- Technology is a human being augmented by hardware.
+- The hardware starts become less and less important as the software matures.
+- "Humans are allergic to change." - Grace Hopper
+- The web was built on existing standards: HTTP -> TCP/IP, URLs -> DNS, HTML -> SGML.
+- Fault tolerance in HTML is not an accident, it is by design.
+- Content can degrade gracefully in older browsers.
+- https://principles.adactio.com
+- Goals (Declaration of Independence) Principles (Constitution) Patterns (The Law)
+- Ask "how well does it work?" But also "How well does it fail?"
+- CSS shapes and service workers are good examples of something that works well, but also _fails_ well when they are unsupported.
+- Literally anything could and should be a PWA.
+- Who benefits from all of this technology? Developers and/or users.
+- Don't use solutions that benefit the developer at the expense of the user.
+- Outward vs. inward technologies. Outward technologies (e.g., React) impose a tax on the user.
+- The fallacy of assumed competency: If a large company is doing something, it must be good.
+- Abstractions are fine (but ensure abstractions don't hurt the user).
+- What are the assumptions in the technology? Does the philosophy of this tool match my own? If so, you can work quickly. If not, it's punitive to progress.
+- We should be able to adopt technology at a reasonable pace. As needed.
+
+### Where Accessibility Lives
+#### [Derek Featherstone](https://twitter.com/feather)
+
+- We have to work as a teamwork! We're not... afraid! 1... 2... 3... GO!
+- Accessibility lives in people, process, and tools.
+- Step 1: Set a goal.
+- We should not be thinking about "perfect." That word carries connotations of something absolute and finished, and that can make people feel that the thing is unachievable.
+- We should focus instead on "better." It should be where we're headed with this. We need to approach accessibility as a constantly evolving pace.
+- Step 2: Start and learn quickly.
+- Try to fix what you can this week, and then figure out what's left and how long it will take to do the rest.
+- Step 3: Research and create a plan.
+- Research: Work with real people with disabilities.
+- Until we see how things work for real, we don't know how it will actually behave.
+- Fix keyboard and forms issues first. Keyboard issues potentially affect everyone.
+- Priorities: Highest business value, high impact/lox complexity, highest risk pages, can we solve other accessibility issues, too?
+- Create your standard. It should always evolve to get better. Document those standards.
+
+### Design for Real Life
+#### Eric Meyer
+
+- It's easy to break huge products that have immeasurably terrible effects.
+- Algorithms can unintentionally be cruel.
+- We tend to look at users as an undifferentiated sort of mass. People like us. They're not all like us, though. They have different experiences.
+- Some people love chocolate. Or donuts. Some people don't. Some people can be hurt by those things. But that is not a problem to be solved.
+- Unconscious biases can cause unintentional behavior.
+- Error/compliance copy should be straightforward. Don't jerk frustrated people around.
+- Processes shouldn't be punitive (don't make poeple fill out tons of paperwork if they might be in a crisis.)
+- Don't insult users or unjustly accuse them in your copy.
+- Don't harm people with your apps (e.g., Pokemon Go directing people into minefields).
+
+### Measuring The Customer Experience
+#### [Gerry McGovern](https://twitter.com/gerrymcgovern)
+
+_Couldn't attend :'(_
