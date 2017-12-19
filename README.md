@@ -1,6 +1,8 @@
 # AEA Denver Notes (December 11th-13th)
 
-These are notes for all the sessions I attended at AEA Denver. If you see typos or errors, feel free to put in a PR!
+These are notes for all the sessions I attended at AEA Denver. The last session's (extensive!) notes were taken by [Marya](https://twitter.com/emdot)!
+
+If you see typos or errors, feel free to put in a PR!
 
 ## 11 DECEMBER
 
@@ -22,7 +24,7 @@ These are notes for all the sessions I attended at AEA Denver. If you see typos 
 - Let customers know whether they're anticipating customer needs accurately.
 - Stakeholder interviews reveal knowledge and build consensus.
 
-### Digital Marketing Strategies for the Busy “Web Master”
+### Digital Marketing Strategies for the Busy "Web Master"
 #### [Sarah Parmenter](https://twitter.com/sazzy)
 
 - We are still in the first 10,000 days of the web.
@@ -435,7 +437,222 @@ These are notes for all the sessions I attended at AEA Denver. If you see typos 
 - Don't insult users or unjustly accuse them in your copy.
 - Don't harm people with your apps (e.g., Pokemon Go directing people into minefields).
 
-### Measuring The Customer Experience
+### Measuring the Customer Experience
 #### [Gerry McGovern](https://twitter.com/gerrymcgovern)
 
-_Couldn't attend :'(_
+_Thanks to [Marya](https://twitter.com/emdot) for taking these notes!_
+
+**Navigation is the main problem have with your web sites**
+- Consider that it isn't good if people who are traveling down the highway are focusing on the navigation.
+  - Insinuates that your hints/directions/signs aren't big or obvious enough.
+- If customers focus on web navigation, is that good?
+- Why are people hitting your navigation?
+- Statistics can give us insight, but we don't know if spending a lot of time in the navigation is good or bad it's good or bad.
+- We need to conduct usability studies to connect the what to the why.
+
+**What should you do?**
+1. Identify the expected customer journey (identify the path to specific information).
+2. Test with real users how they get to that content (is it a completely different path? Could they find the information?)
+
+**Example: An Irish person visiting Canada and needing visa information**
+- Company mapped out that customer would go IMMIGRATION -> VISIT -> CLICK "eTA".
+  - Assumed customer would know what "eTA" is
+- Actual person went to TRAVEL and got stuck because there was no link/information for out-of-country visitors.
+  - Actual person didn't consider their short trip immigration.
+- The company's navigation has two core components
+  - Travel to and travel from - run by two separate departments.
+  - Gerry's team got the two departments together (they never spoke before), and now they have a TRAVEL -> VISIT CANADA journey.
+  - Extra win: Collaboration across silos and divisions can happen when departments understand the problems that their users are having.
+
+**Considerations**
+- What are you putting in your most valuable real estate?
+  - Most people take up the most valuable real estate (nearer top of the page) with worthless imagery. (Gerry wonders if there is a Department of Useless Images and if this is where all of the worthless imagery is obtained; he also posits that with every useless image, you must have useless content). Gerry would like you to stop doing this.
+- "Your web site is not a murder mystery!"
+  - We don't want a Steven Spielberg experience - we just want the information.
+  - Make the links obvious.
+  - Make sure you are linking to worthy content on real pages (he used an example of infinite loop
+linking).
+
+**Why do these navigation problems happen?**
+- This happens because we never observe and measure real people using our things.
+- We don't understand the core underlying problems and how we can solve them.
+- We often fall into the trap of using fancy tech for fancy tech sake.
+
+**Example: Find a passport Service location**
+- 2014 - 93% success rate
+- 2015 - 53% success rate
+- 2016 - 100% success rate
+- In 2015 they instituted a fancy map that looked good, but that didn't actually help the user. It added useless.
+information that the user then had to wade through and drastically lowered the success rate. After realizing this problem, the company went to a more direct approach, lost the fancy and ended up with a perfect success rate.
+
+- Take away: Sometimes you can be too clever. The shiny thing might not be the right thing. Instead, use smart solution. Pushing boundaries often is just pushing people's limits in patience.
+
+**Second example: Norway Health**
+- People just wanted to find out about cancer.
+- Instead they showed fancy body graphic and forced people to point to location of their cancer in the graphic.
+- Solution: focus on the core information people need.
+- When they stopped asking for money and they focused on cancer, people started to give them more money. Solve the customer's problem and they will solve your problem.
+
+**What should you do?**
+1. Figure out the critical tasks and measure the success rate and how long it takes a user to complete task.
+2. Bring up success rate as high as possible and you reduce the time as low as possible.
+3. Outcome: Customers will buy more and be more loyal.
+
+**Time**
+- Save people time.
+  - If you can make it easier, simpler, you can create powerful value.
+  - Effective not in seconds but in hundreds of milliseconds.
+    - 100ms customer experience is affected.
+    - 1 s people are getting annoyed.
+    - 3 s people just move away.
+- It's not just physical performance; most of the time is wasted when you arrive at the page - stupid images and content.
+- What takes time?
+  - Time to download.
+  - Time to read and use the page itself.
+- Time is also relative.
+  - What was fast 10 years ago is slow today.
+  - e-commerce perceived okay time periods.
+    - 2000 - 1 week.
+    - 2010 - 2 days.
+    - 2017 - 1 hour.
+- Task Performance Indicator.
+  - Reduce and manage that time.
+
+**How to Do This**
+1. Choose tasks
+  - a. There are 8 - 12 core tasks in any environment.
+  - b. No more than that, regardless of organization (see Top Tasks).
+  - c. If these core tasks aren't working well, they have a major impact on the customer experience.
+  - d. If you can understand this you can understand if it's working.
+2. Get customers you are going to measure
+3. Measure.
+  - a. To deliver reliable metrics you need 13-18 people.
+  - b. 3-8 can show you a core problem, but you won't be able to put a number on that problem.
+  - c. 15 people you will get stable metrics of success and time.
+4. Measure again in six months, to show improvements.
+  - a. Every six months, measure same tasks
+  - b. Repeatability and consistency will help inform you.
+  - c. Powerful way of understanding if the environment is improving.
+5. Create good task instructions.
+  - a. Start with an answer. Don't start with task area. Go more into it...
+  - b. "Compare countries" <- no. "Did more people die of x in Canada or France in 2004"
+  - c. How did they get the answer - where did they go, how did they get there (did they get there).
+  - d. Representative and typical.
+  - e. This isn't an exam - you don't have to come up with something difficult - instead, something that should be easy to do!
+  - f. Bad example "Find the maternity leave policy" (they could simply google this).
+  - g. Good example: "Your colleague is pregnant. How many months can she take off?" (there are no hidden clues in the construction of this task request).
+  - h. 20 words or less (30 words max)
+    - i. You don't want them to have to go back to re-read - it will obstruct natural flow.
+    - ii. Instead, embed the question into their short-term memory.
+
+**Creating the Customer Journey**
+1. Create the expected journey - what you think they will go on.
+2. Then measure it - did your expected journey match the actual journey?
+
+**Establish a target time**
+1. You need to have an idea for how long this will take.
+2. Perhaps from the customer journey.
+3. Well, how long does it take on amazon? On top web sites?
+4. Without a target, you can't measure it.
+
+**Run the Test Remotely**
+1. Remote is faster, cheaper and better for lab based testing.
+2. Use WebX, Skype, or Gotomeeting.
+3. Better if they are at home.
+  a. Artificial environments cause people to behave artificially.
+  b. Away from home creates false patterns.
+4. Remote testing at least you aren't there and they are in their own environment.
+5. You can test far more people, regularly, cheaper, better.
+
+**User Testing Required Skills**
+- Empathy - double edged sword (key skill is to shut up and not give hints).
+- Analytical - that you see the patterns.
+- Don't speak during the test – be clear with instructions before they start and then _BE QUIET_.
+  - Be invisible.
+  - Test your remote set up beforehand - your typing can be really loud and disrupt.
+  - Instead - mute yourself so they don't hear anything.
+  - Create an environment where they feel you're not there.
+- Don't ask them to speak their choices outloud - this causes them to behave differently.
+- Just behave your normal way - no guidance, no hints.
+
+**Important Information to Convey to Your Users**
+- You'll need to spend time to convince them.
+- We are not measuring you.
+- We are measuring the app and the web site.
+- "If you want to give up, please give up" - we will learn more if you do your normal actions.
+- We learn more from the failure points.
+- Do they succeed or do they fail? Get the answer from them. They must give you the answer.
+
+**What to pay attention to**
+- Measure: how long did it take?
+- Observe patterns (professional), not exceptions (amateur).
+
+**Remember**
+- Testing is not entertainment for you – you will be/should be bored.
+- Leave the weird people alone. I know it's boring, but that is what delivers the value.
+- Take advantage of video - great!
+o Show the video - great for management; powerful; gets the truth/point across.
+- Combine with data and that is the biggest change agent.
+- Creates great momentum.
+
+**Analyzing and presenting the two key metrics**
+1. How do we increase success?
+2. How reduce time?
+
+**Manage the outcome not the input**
+- Digital is about measuring what the customer does
+- Stop measuring organization; instead, measure time to complete a task.
+
+**Example**
+- Try to hide the true intent of the task.
+  - Let's say you just want to see if people can find a document and download it.
+  - Hide the true intent of the task by creating this kind of task: "Find header on page 73 of Document X."
+
+**What was the problem?**
+- It's always confusing menus and links.
+  - A link gives a promise. If most links were married, they would be divorced because they don't keep their promises.
+  - The link should always be the destination not the format.
+  - It's always the thing that you want.
+- Biggest failure occurred because links are in the middle of the text !!! (Whoa!)
+  - People get confused.
+- Link isn't named clearly enough.
+  - Naming of the thing is important.
+
+**Truth**
+- If you understand the problem and fix this task, you will probably simultaneously fix it for hundreds of tasks.
+- You could fix thousands of problems.
+- Most of this stuff you would never understand/discover if you didn't observe it.
+- We don't see the simple issues bc we don't observe customer behavior.
+
+**Outcomes**
+- Went from 75% failure to 100% success!!!
+- Not be redesign - just by fixing simple issues
+
+**Key to Navigation, Part 1.**
+- People - see the journey from the POV of the thing that they have. The journey is from the object. The journey will begin with the object and then look for troubleshooting. (<- !!!!)
+- iPhone battery problem?
+  - People will go iPHONE -> TROUBLESHOOTING (not TROUBLESHOOTING -> iPHONE).
+
+**Key to Navigation, Part 2**
+- Look for overall patterns.
+  - These often affect multiple tasks
+- People think in countries or topics.
+- Models (two dominate patterns) will repeat
+
+**More Keys to Navigation**
+- Nobody looks in the right-hand column (that's why we called it "Don't Miss") (ha. Won't make any
+difference.)
+- Simplify - remove, take away - anybody can add
+  - Glut is the core challenge of digital.
+  - It takes a real professional to remove!!!
+
+**TL;DR:**
+- What was impossible to change became possible once you show the data.
+- Identify the 8 - 12 top tasks.
+  - Gerry never found an environment that was more
+- Measure with real people over time - six months, 12 months
+  - Compare performance of the changes you are making
+- We need to understand what is working and not working.
+- Measure, improve.
+  - Measure again.
+  - It's endless!
